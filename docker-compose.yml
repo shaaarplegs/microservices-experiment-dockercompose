@@ -5,6 +5,6 @@ services:
     ports:
       - 8080:80
   diceroller:
-    build: ./diceroller
+    build: ./diceRoller
     ports:
       - 8081:80
