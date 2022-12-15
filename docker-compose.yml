@@ -1,0 +1,10 @@
+version: "3"
+services:
+  greetor:
+    build: ./Greetor
+    ports:
+      - 8080:80
+  diceroller:
+    build: ./diceroller
+    ports:
+      - 8081:80
