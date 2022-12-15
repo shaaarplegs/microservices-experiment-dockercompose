@@ -1,0 +1,5 @@
+./Greetor/env/*
+./Greetor/__pycache__/*
+
+./diceRoller/env/*
+./diceRoller/__pycache__/*
